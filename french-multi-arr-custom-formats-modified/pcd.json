@@ -1,0 +1,16 @@
+{
+  "name": "french-multi-arr-custom-formats",
+  "version": "1.0.0",
+  "description": "French Multi Audio Arr Configs",
+  "arr_types": [
+    "radarr",
+    "sonarr"
+  ],
+  "dependencies": {
+    "https://github.com/Dictionarry-Hub/schema": "1.1.0"
+  },
+  "profilarr": {
+    "minimum_version": "2.0.0"
+  },
+  "repository": "https://github.com/ataaki/french-multi-arr-custom-formats.git"
+}
